@@ -1,6 +1,6 @@
 # Hey 👋
 
-My name is Carlos Cardoso, I'm from Brazil and I'm an air traffic controler who loves the IT universe.
+My name is Carlos Cardoso, I'm from Brazil and I'm an air traffic controller who loves the IT universe.
 
 I really love solving problems, as you can see I do this every day in the airspace.
 
@@ -9,7 +9,7 @@ Always open to new challenges.
 ####  📚 " Depois que cansei de procurar, aprendi a encontrar.  Depois que um vento me opôs resistência, velejo com todos os ventos." 🧠
 
 - 📍 From Rio de Janeiro living in Curitiba;
-- 🛬  I’m currently working on Brazilian Airforce;
+- 🛬  I’m currently working as an Air traffic controller;
 - 💻 I’m currently learning JavaScript for front-end and Python for dataScience;
 
 Reach me out 👇🏼

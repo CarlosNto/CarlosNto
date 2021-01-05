@@ -2,7 +2,7 @@
 
 My name is Carlos Cardoso, I'm from Brazil and I'm an air traffic controler who loves the IT universe.
 
-I really love solve problems, as you can see I do it every single day in the airspace.
+I really love solving problems, as you can see I do this every day in the airspace.
 
 Always open to new challenges.
 
@@ -14,4 +14,4 @@ Always open to new challenges.
 
 Reach me out 👇🏼
 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/carlos-cardoso-1b0a47181/)](https://www.linkedin.com/in/carlos-cardoso-1b0a47181/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_cardoson/)](https://www.instagram.com/_cardoson/)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/carlos-cardoso-1b0a47181/)](https://www.linkedin.com/in/carlos-cardoso-1b0a47181/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_cardoson/)](https://www.instagram.com/_cardoson/)

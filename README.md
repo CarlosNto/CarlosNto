@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hey 👋
 
-<!--
-**CarlosNto/CarlosNto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Carlos Cardoso, I'm from Brazil and I'm an air traffic controler who loves the IT universe.
 
-Here are some ideas to get you started:
+I really love solve problems, as you can see I do it every single day in the airspace.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always open to new challenges.
+
+####  📚 " Depois que cansei de procurar, aprendi a encontrar.  Depois que um vento me opôs resistência, velejo com todos os ventos." 🧠
+
+- 📍 From Rio de Janeiro living in Curitiba;
+- 🔭 I’m currently working on Brazilian Airforce;
+- 🌱 I’m currently learning JavaScript for front-end and Python for dataScience;
+
+Reach me out 👇🏼
+
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/carlos-cardoso-1b0a47181/)](https://www.linkedin.com/in/carlos-cardoso-1b0a47181/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_cardoson/)](https://www.instagram.com/_cardoson/)

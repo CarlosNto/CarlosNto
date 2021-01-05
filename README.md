@@ -9,8 +9,8 @@ Always open to new challenges.
 ####  📚 " Depois que cansei de procurar, aprendi a encontrar.  Depois que um vento me opôs resistência, velejo com todos os ventos." 🧠
 
 - 📍 From Rio de Janeiro living in Curitiba;
-- 🔭 I’m currently working on Brazilian Airforce;
-- 🌱 I’m currently learning JavaScript for front-end and Python for dataScience;
+- 🛬  I’m currently working on Brazilian Airforce;
+- 💻 I’m currently learning JavaScript for front-end and Python for dataScience;
 
 Reach me out 👇🏼
 
